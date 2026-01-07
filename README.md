@@ -23,28 +23,28 @@ sudo apt install ripgrep
 
 ### Tecla Líder
 
-´´´<leader>´´´ = Tecla Espacio (usada como prefijo para atajos)
+```<leader>``` = Tecla Espacio (usada como prefijo para atajos)
 
 ### Navegación General
 
-´´´<C-s>´´´ = Guardar archivo (Control + S)
-´´´<S-h>´´´ = Buffer anterior (Shift + J)
-´´´<S-l>´´´ = Siguiente buffer (Shift + L)
+```<C-s>``` = Guardar archivo (Control + S)
+```<S-h>``` = Buffer anterior (Shift + J)
+```<S-l>``` = Siguiente buffer (Shift + L)
 
 ### Explorador de Archivos (NvimTree)
 
-´´´<leader>e´´´ = Abrir/cerrar explorador
-´´´<leader>r´´´ = Refrescar explorador
-´´´<C-h>´´´ = Enfocar el explorador (Control + H)
-´´´<C-l>´´´ = Volver al buffer anterior (Control + L)
+```<leader>e``` = Abrir/cerrar explorador
+```<leader>r``` = Refrescar explorador
+```<C-h>``` = Enfocar el explorador (Control + H)
+```<C-l>``` = Volver al buffer anterior (Control + L)
 
 ### Búsqueda (Telescope)
 
-´´´<leader>f´´´ = Buscar archivos por nombre
-´´´<leader>s´´´ = Buscar texto en todos los archivos (live_grep)
-´´´<leader>b´´´ = Listar buffers abiertos
-´´´<leader>h´´´ =  Buscar en la documentación (help tags)
-´´´<leader>l´´´ =  Abrir Lazy.nvim (gestor de plugins)
+```<leader>f``` = Buscar archivos por nombre
+```<leader>s``` = Buscar texto en todos los archivos (live_grep)
+```<leader>b``` = Listar buffers abiertos
+```<leader>h``` =  Buscar en la documentación (help tags)
+```<leader>l``` =  Abrir Lazy.nvim (gestor de plugins)
 
 ## Plugins Incluidos
 
