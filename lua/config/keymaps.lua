@@ -53,6 +53,7 @@ map('n', '<C-l>', '<Cmd>wincmd p<CR>', { desc = 'Go to previous window' })  -- V
 -- Buffer navigation
 map('n', '<S-h>', ':bprevious<CR>')                 -- previous buffer
 map('n', '<S-l>', ':bnext<CR>')                     -- next buffer
+map('n', '<leader>bd', ':bwipeout<CR>')             -- delete buffer
 
 -- Lazy
 map('n', '<leader>l', ':Lazy<CR>')                  -- Lazy.nvim
